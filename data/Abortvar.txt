@@ -1,0 +1,27 @@
+Abortion variables:
+
+
+STATE = name of the state (50 U.S. states, excluding Washington D.C.).
+
+ABORTION = Number of abortions per thousand women aged 15-44 in 1992.
+
+RELIGION = the percent of a state's population that is either Catholic, 
+	   Southern Baptist, Evangelist or Mormon.
+
+PRICE = The average charged in 1993 in non-hospital facilities for an 
+	abortion at 10 weeks with local anesthesia, (weighted by the 
+	number of abortions performed in 1992). 
+
+LAWS = a variable that takes the value of 1 if a state enforces a law 
+	that restricts a minor's access to abortion, 0 otherwise.
+
+FUNDS = variable that takes the value of 1 if state funds are available 
+	for use to pay for an abortion under most circumstances, 0 otherwise.
+
+EDUC = the percent of a state's population that is 25 years or older 
+	with a high school degree (or equivalent), 1990.
+
+INCOME = disposable income per capita, 1992. 
+
+PICKET = the percentage of respondents that reported experiencing picketing 
+	 with physical contact or blocking of patients.

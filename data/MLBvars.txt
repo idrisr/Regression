@@ -1,0 +1,5 @@
+MLB Yearly Average Salary vairables:
+
+Season = indicates which season the data are for (1969 to 1997)
+
+Salary = the league-wide average salary in dollars.

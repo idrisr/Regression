@@ -1,0 +1,15 @@
+Sport Utility Vehicle variables:
+
+VEHICLE = the name and model of the vehicle.
+
+MSRP = manufacture's suggested retail price IN 2000 for the base model.
+			
+CARGO = cargo space measured in cubic feet.
+			
+MPG = miles per gallon, averaged between city and highway.
+			
+LITERS = size of engine in liters.	
+		
+CYL = number of cylinders in engine.
+			
+HORSE = engine horse power.			

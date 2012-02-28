@@ -1,0 +1,12 @@
+Election variables:
+
+Year = election year (1916 to 1996).
+
+Votes = percent of the two-party vote received by the incumbent party candidate.
+
+Incumbent = 1 if the candidate is the incumbent, = 0 otherwise.
+
+Growth = the growth rate, in percent, of real GDP over the three quarters prior 
+	 to the election.
+
+Inflation = the inflation rate, in percent, over the 15 quarters prior to the election.

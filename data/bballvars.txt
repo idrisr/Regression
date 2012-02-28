@@ -1,0 +1,21 @@
+Baseball player variables:
+
+PLAYER = player's name.
+
+SALARY = the reported salary, in millions of dollars, the player earned for the 1998 MLB season.
+
+TEAM = the team the player played on in 1998.
+
+NL = 1 if the player was playing in the National League in 1998, 0 if in the American League in 1998.
+
+YEARS = number of seasons through 1997 the player has played with at least 130 at bats.
+
+SLUGGING = the slugging average through 1997, calculated as the ratio
+	    (number of bases reached)/(number of at bats)*1000.
+
+FIELDING = the fielding percentage through 1997, calculated as the ratio 
+	    (assists + putouts)/(assists + putouts + errors)*100
+
+BLACK = 1 if a player is black, 0 otherwise.
+
+HISPANIC = 1 if a player is non-black  hispanic, 0 otherwise.

@@ -1,0 +1,14 @@
+Wage data variables:
+
+
+WAGE= hourly wage in dollars (1991 figures).
+					
+EDUC = years of education.
+					
+FEMALE = 1 if the individual is a female, 0 if male.
+					
+MARRIED = 1 if the individual is married, 0 otherwise.
+					
+EXPER =  years of labor market experience.
+					
+BLKHISP = 1 if the individual is black or hispanic, 0 otherwise.					
