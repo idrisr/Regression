@@ -63,5 +63,3 @@ summary(m)
 #    be violated if we assume a linear relationship, when perhaps a curve is
 #    appropriate.
 # 6. The error term is normally distributed.
-
-
