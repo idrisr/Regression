@@ -56,5 +56,4 @@ pt(t, 19)
 # d is for the density function
 # p is for the cumulative density functnio
 
-
 # Reject both H₀
