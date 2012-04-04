@@ -24,26 +24,23 @@ you wish to run the library.
 
 Motivation
 ------------
-While competing in this [Kaggle] competition, the baseline model used a linear
-mixed effects regression model (lmer). In my attempts to understand the lmer
-model, I had to go back to basics and refresh myself on simple linear
-regressions.
+While competing in this [Kaggle](http://www.kaggle.com/c/WhatDoYouKnow) 
+competition, the baseline model used a linear mixed effects regression model 
+(lmer). In my attempts to understand the lmer model, I had to go back to basics 
+and refresh myself on simple linear regressions.
+
+Clearly I still have to learn as I finished in 56th place out of 257
+competitors.
 
 
 Further Resources
 ------------
 
-### Linear Regression
+[Jake Hofman's Data-Driven Modeling Class at Columbia] (http://jakehofman.com/ddm/2012/03/lecture-05/?utm_source=rss&utm_medium=rss&utm_campaign=lecture-05)
 
+[Andrew Ng's Introduction to Machine Learning Class at Stanford](ml-class.org)
 
-
-### Logistic Regression
-
-
-
-### Linear Mixed Effects Regression
-
-
+[lme4 class for linear mixed effects regressions in R](cran.r-project.org/web/packages/lme4/lme4.pdf)
 
 Getting the Code, Notes, and Data
 ------------
