@@ -24,25 +24,28 @@ you wish to run the library.
 
 Motivation
 ------------
-
-
-
+While competing in this [Kaggle] competition, the baseline model used a linear
+mixed effects regression model (lmer). In my attempts to understand the lmer
+model, I had to go back to basics and refresh myself on simple linear
+regressions.
 
 
 Further Resources
 ------------
 
-### Classical Regression
+### Linear Regression
+
 
 
 ### Logistic Regression
 
 
-### Regression
+
+### Linear Mixed Effects Regression
 
 
 
 Getting the Code, Notes, and Data
 ------------
 
-`git clone github.com/idrisr/Regression`)
+`git clone github.com/idrisr/Regression`
