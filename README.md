@@ -1,20 +1,27 @@
-Idris Raja' Test
+Notes from the Leo Kahane's Introduction to Regression, 1st Edition.
 =============
 
-Notes from the Leo Kahane's Introduction to Regression, 1st Edition.
+The code in the book presents example for Excel and SPSS. 
 
-The code in the book presents example for Excel and SPSS. This page shows the
-code in R.
+This page shows the code in R.
 
 [Author's Website](http://www.cbe.csueastbay.edu/~lkahane/)  
 [On Amazon](http://www.amazon.com/Regression-Basics-Leo-H-Kahane/dp/1412951267/ref=sr_1_1?ie=UTF8&qid=1333558362&sr=8-1)
 
 
-Markups
+Chapters
 -------
 
 The following markups are supported.  The dependencies listed are required if
 you wish to run the library.
+
+* Ch. 1 - Introduction to Regressions
+* Ch. 2 - Basic Examples and Assumptions
+* Ch. 3 - Model Performance and Evaluation
+* Ch. 4 - Multiple Regression Analysis
+* Ch. 5 - Nonlinear, Dummy, Interaction and Time Variables
+
+
 
 * [.markdown](http://daringfireball.net/projects/markdown/) -- `gem install redcarpet` (https://github.com/tanoku/redcarpet)
 * [.textile](http://www.textism.com/tools/textile/) -- `gem install RedCloth`
