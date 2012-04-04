@@ -1,8 +1,14 @@
 Idris Raja' Test
 =============
 
-We use this library on GitHub when rendering your README or any other
-rich text file.
+Notes from the Leo Kahane's Introduction to Regression, 1st Edition.
+
+The code in the book presents example for Excel and SPSS. This page shows the
+code in R.
+
+[Author's Website](http://www.cbe.csueastbay.edu/~lkahane/)  
+[On Amazon](http://www.amazon.com/Regression-Basics-Leo-H-Kahane/dp/1412951267/ref=sr_1_1?ie=UTF8&qid=1333558362&sr=8-1)
+
 
 Markups
 -------
