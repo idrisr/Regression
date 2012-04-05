@@ -5,11 +5,10 @@ The code in the book presents example for Excel and SPSS.
 
 This page shows the code in R.
 
-[![Cover](http://www.cbe.csueastbay.edu/~lkahane/images/rb.jpg)]
-
 [Author's Website](http://www.cbe.csueastbay.edu/~lkahane/)  
 [On Amazon](http://www.amazon.com/Regression-Basics-Leo-H-Kahane/dp/1412951267/ref=sr_1_1?ie=UTF8&qid=1333558362&sr=8-1)
 
+[![Cover](http://www.cbe.csueastbay.edu/~lkahane/images/rb.jpg)]
 
 Chapters
 -------
