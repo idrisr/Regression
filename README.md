@@ -1,9 +1,11 @@
-Notes from the Leo Kahane's Introduction to Regression, 1st Edition.
+My notes (unofficial) from Leo Kahane's book Introduction to Regression, 1st Edition.
 =============
 
 The code in the book presents example for Excel and SPSS. 
 
 This page shows the code in R.
+
+[![Cover](http://www.cbe.csueastbay.edu/~lkahane/images/rb.jpg)]
 
 [Author's Website](http://www.cbe.csueastbay.edu/~lkahane/)  
 [On Amazon](http://www.amazon.com/Regression-Basics-Leo-H-Kahane/dp/1412951267/ref=sr_1_1?ie=UTF8&qid=1333558362&sr=8-1)
@@ -11,9 +13,6 @@ This page shows the code in R.
 
 Chapters
 -------
-
-The following markups are supported.  The dependencies listed are required if
-you wish to run the library.
 
 * Ch. 1 - Introduction to Regressions
 * Ch. 2 - Basic Examples and Assumptions
@@ -44,5 +43,4 @@ Further Resources
 
 Getting the Code, Notes, and Data
 ------------
-
-`git clone github.com/idrisr/Regression`
+    git clone github.com/idrisr/Regression.git
